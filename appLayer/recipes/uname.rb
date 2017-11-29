@@ -1,3 +1,3 @@
 execute 'uname_command' do
-	command 'uname -a'
+	command 'dasdsadsdadas'
 end
